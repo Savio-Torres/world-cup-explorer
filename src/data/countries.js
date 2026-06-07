@@ -12,7 +12,7 @@ const rosters = {
       "Alistair Johnston (Celtic)",
       "Derek Cornelius (Olympique de Marseille)",
       "Richie Laryea (Toronto FC)",
-      "Kiko Sigur (Hadjuk Split)",
+      "Niko Sigur (Hadjuk Split)",
       "Joel Waterman (Chicago Fire)",
       "Luc de Fougerolles (Fulham)",
       "Moise Bombito (Nice)",
@@ -189,7 +189,7 @@ const rosters = {
       "Ali Lajami (Al-Hilal)",
       "Ali Majrashi (Al-Ahli)",
       "Hassan Tambakti (Al-Ahli)",
-      "Jehad Thikri (Al-Qadsiah)",
+      "Jehad Thakri (Al-Qadsiah)"
     ],
     midfieldersForwards: [
       "Nasser Al Dawsari (Al-Hilal)",
